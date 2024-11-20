@@ -1,0 +1,33 @@
+body {display: flex;
+flex-direction: column;}
+
+
+header {
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: gold;
+    border: 2px solid black;
+   padding: 100px 100px;
+    margin: 1%;
+}
+
+main {
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: azure;
+    border: 2px solid black;
+    padding: 100px 100px;
+    margin: 1%;
+    align-items: center;
+}
+
+footer {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: blue;
+    border: 2px solid black;
+    padding: 100px;
+    margin: 1%;
+    
+}

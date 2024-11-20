@@ -1,0 +1,37 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    height: 150%;
+    width: 150%;
+}
+
+header {
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: gold;
+    border: 2px solid black;
+    height: 150%;
+    width: 150%;
+    padding: 10%;
+}
+
+main {
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: azure;
+    border: 2px solid black;
+    height: 150%;
+    width: 150%;
+    padding: 10%;
+}
+
+footer {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: blue;
+    border: 2px solid black;
+    height: 150%;
+    width: 150%;
+    padding: 10%;
+}

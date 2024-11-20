@@ -1,0 +1,176 @@
+header {
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: darkorange;
+    border: 2px solid black;
+    height: 150px;
+    margin: 1%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+    height: 10px;
+    flex-direction: row;
+
+}
+
+.one {
+    flex-basis: 5%;
+    background-color: mediumorchid;
+    border: 1px solid black;
+    padding: 1%;
+    width: 20px;
+    margin-right: 1%;
+
+}
+
+.two {
+    flex-basis: 5%;
+    background-color: mediumorchid;
+    border: 1px solid black;
+    padding: 1%;
+    width: 20px;
+    margin-right: 1%;
+}
+
+.three {
+    flex-basis: 5%;
+    background-color: mediumorchid;
+    border: 1px solid black;
+    padding: 1%;
+    width: 20px;
+    margin-right: 1%;
+}
+
+.four {
+    flex-basis: 5%;
+    background-color: mediumorchid;
+    border: 1px solid black;
+    padding: 1%;
+    width: 20px;
+    margin-right: 1%;
+}
+
+aside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 300px;
+    margin-top: 5%;
+    margin: 1%;
+    margin-top: 3%;
+
+}
+
+.five {
+    flex-basis: 40%;
+    border: 2px solid black;
+    background-color: gray;
+    margin-right: 1%;
+}
+
+.six {
+    display: flex;
+    flex-basis: 66%;
+    border: 2px solid black;
+    background-color: green;
+    justify-content: space-around;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    background-color: dodgerblue;
+    border: 2px solid black;
+    height: 150px;
+    margin: 1%;
+    justify-content: space-around;
+
+}
+
+.kill {
+    justify-content: flex-start;
+    background-color: royalblue;
+    padding: 49px;
+    margin: 26px;
+
+
+}
+
+.me {
+    display: flex;
+    color: black;
+    justify-content: flex-end;
+    margin: 26px;
+    margin-top: -7%;
+
+}
+
+
+.box1 {
+    flex-basis: 15%;
+    border: 2px solid black;
+    padding: 14px;
+    margin: 1%;
+    background-color: dodgerblue;
+
+}
+
+.box2 {
+    flex-basis: 15%;
+    border: 2px solid black;
+    padding: 14px;
+    margin: 1%;
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+
+
+}
+
+.box3 {
+    flex-basis: 15%;
+    border: 2px solid black;
+    padding: 14px;
+    margin: 1%;
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+    width: 5px;
+}
+
+.box4 {
+    flex-basis: 15%;
+    border: 2px solid black;
+    padding: 14px;
+    margin: 1%;
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+
+}
+
+img {
+    flex-basis: 20%;
+    padding: 4px;
+    align-items: center;
+    margin: 8%;
+
+
+}
+
+.seven {
+    flex-basis: 20%;
+    padding: 4px;
+    align-items: center;
+    margin: 0.98%;
+
+
+}
+fieldset {
+    background-color: beige;
+    padding: 10px;
+    margin:20px ;
+    text-align: center;}

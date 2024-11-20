@@ -1,0 +1,41 @@
+header {
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: gold;
+    border: 2px solid black;
+    height: 200px;
+    margin: 1%;
+}
+
+main {
+
+    display: flex;
+    background-color: azure;
+    border: 2px solid black;
+    height: 200px;
+    margin: 1%;
+
+}
+
+
+
+.two {
+    flex-basis: 50%;
+    border: 2px solid black;
+    background-color: gray;
+}
+
+.four {
+    flex-basis: 50%;
+    border: 2px solid black;
+    background-color: gray;
+}
+
+footer {
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: blue;
+    border: 2px solid black;
+    height: 200px;
+    margin: 1%;
+}
